@@ -4,7 +4,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
 
-//comit 3 en la rama 2
+// este sera el quinto comit y lo añadire al master
         int versioinicial= 923;
 
  int comit2=34;
