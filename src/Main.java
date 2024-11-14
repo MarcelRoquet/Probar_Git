@@ -4,7 +4,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
 
-// este sera el comit 9 de la rama 2 y lo comparare com el comit 7 que es domde he hecho el merge
+// este sera el comit 11 de la rama 2
         int versioinicial= 923;
 
  int comit2=34;
